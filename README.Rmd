@@ -1,0 +1,17 @@
+---
+title: "Etsy Seller Growth"
+output: github_document
+date: "2022-11-16"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Visualistion
+
+![](outputs/test.jpg)
+
+## Data
+
+[Business of Apps](https://www.businessofapps.com/data/etsy-statistics/)
